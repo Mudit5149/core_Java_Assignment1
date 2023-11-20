@@ -21,7 +21,7 @@ public class Core_Java_AssignmentQ5 {
 		}
 		else if((ctc>300000)&&(ctc>500000)) {
 			taxAmount=(ctc*0.20);
-			System.out.println("You belong to SLAB-c and tax payable is :"+taxAmount);
+			System.out.println("You belong to SLAB-C and tax payable is :"+taxAmount);
 		}
 		if((ctc>500000)&&(ctc>1000000)) {
 			taxAmount=(ctc*0.30);
